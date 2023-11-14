@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/landing.css">
+    <link rel="stylesheet" href="../public/css/landing.css">
     <title>Metaclip - A canvas for your mind</title>
 </head>
 <body>
@@ -22,7 +22,7 @@
                     <h1>The canvas <br>for your <br>mind.</h1>
                     <a href="https://moaform.com/q/zWCCky" id="open-app">Coming soon</a>
                 </div>
-                <img src="/img/landing.png" id="hero-image"/>
+                <img src="../public/img/landing.png" id="hero-image"/>
             </div>
             <div class="sub-content">
                 <h1>From ADHD software enginners to you.</h1>
