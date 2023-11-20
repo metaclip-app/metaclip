@@ -132,7 +132,7 @@
                     <h1>The canvas <br>for your <br>mind.</h1>
                     <a href="https://moaform.com/q/zWCCky" id="open-app">Coming soon</a>
                 </div>
-                <img src="<?php include('../public/landing.png'); ?>" id="hero-image"/>
+                <img src="../public/img/landing.png" id="hero-image"/>
             </div>
             <div class="sub-content">
                 <h1>From ADHD software enginners to you.</h1>
