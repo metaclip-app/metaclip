@@ -1,3 +1,3 @@
 <?php
-    include('/public/index.php');
+    require(dirname(__DIR__) . '/../public/imagem.png');
 ?>
