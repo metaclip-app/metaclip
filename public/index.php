@@ -132,7 +132,7 @@
                     <h1>The canvas <br>for your <br>mind.</h1>
                     <a href="https://moaform.com/q/zWCCky" id="open-app">Coming soon</a>
                 </div>
-                <img src="/img/landing.png" alt="Description of the image" id="hero-image"/>
+                <img src="https://raw.githubusercontent.com/metaclip-app/metaclip/main/public/img/landing.png" alt="Description of the image" id="hero-image"/>
             </div>
             <div class="sub-content">
                 <h1>From ADHD software enginners to you.</h1>
