@@ -1,9 +1,7 @@
 <br />
 <div align="center">
   <img src="public/img/logo.png" alt="Logo" width="200" height="200">
-  <h1 align="center">
-    <code>Metaclip</code>
-  </h1>
+  <h1 align="center">Metaclip</h1>
   <p align="center">
     A self-hosted (for now) canvas to organize your digital things
     <br />
