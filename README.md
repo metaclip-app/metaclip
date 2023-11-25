@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://metaclip.vercel.app">
-    <img src="public/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/img/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">
     <code>Metaclip</code>
