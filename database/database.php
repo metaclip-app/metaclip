@@ -1,4 +1,6 @@
 <?php
+    echo "database.php connected";
+
     class Connection{
         private $host = "localhost";
         private $user = "root";
