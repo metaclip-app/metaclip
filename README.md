@@ -30,21 +30,40 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 6. That's it :3
 
 ## Roadmap
-- [x] 0.0.1
+-- 0.0.1 --
 - [x] New database
-- [ ] New structure
+- [x] New structure
+
+-- 0.0.6 --
+
+- [ ] Delete account
 - [ ] List view
 - [ ] Grid view
 - [ ] About page
+
+-- 1.0.0 --
+
 - [ ] Better views
 - [ ] Image upload and view
+- [ ] New landing page
+
+-- 1.4.0 --
+
 - [ ] Audio upload and view
 - [ ] Video upload and view
 - [ ] Document upload and view
 - [ ] Bookmarks integration
-- [ ] Translations
+
+-- 1.5.2 --
+
+- [ ] Translations (may not be added)
     - [x] English
-    - [ ] Portuguese (since i'm brazilian)
+    - [ ] Portuguese (my main language)
+    - [ ] Spanish
+    - [ ] Japanese
+
+-- 2.0.0 --
+
 - [ ] Folders
 - [ ] "Page-folders"
 - [ ] Themes
