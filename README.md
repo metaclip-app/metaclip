@@ -32,12 +32,22 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 ## Roadmap
 - [x] 0.0.1
 - [x] New database
+- [ ] New structure
 - [ ] List view
 - [ ] Grid view
 - [ ] About page
+- [ ] Better views
+- [ ] Image upload and view
+- [ ] Audio upload and view
+- [ ] Video upload and view
+- [ ] Document upload and view
+- [ ] Bookmarks integration
 - [ ] Translations
     - [x] English
     - [ ] Portuguese (since i'm brazilian)
+- [ ] Folders
+- [ ] "Page-folders"
+- [ ] Themes
 
 See the [open issues](https://github.com/metaclip-app/metaclip/issues) for a full list of proposed features (and known issues).
 
