@@ -3,7 +3,7 @@
   <img src="public/img/logo.png" alt="Logo" width="200" height="200">
   <h1 align="center">Metaclip</h1>
   <p align="center">
-    A self-hosted (for now) canvas to organize your digital things
+    A self-hosted (for now) space to organize your digital things
     <br />
     <a href="https://github.com/metaclip-app/metaclip">Download</a>
   </p>
