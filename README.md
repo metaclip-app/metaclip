@@ -55,7 +55,6 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 -- 1.5.2 --
 
 - [ ] Folders
-- [ ] "Page-folders"
 - [ ] Themes
 
 See the [open issues](https://github.com/metaclip-app/metaclip/issues) for a full list of proposed features (and known issues).
