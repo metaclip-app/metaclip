@@ -1,15 +1,12 @@
-<br />
 <div align="center">
   <img src="public/img/logo.png" alt="Logo" width="200" height="200">
   <h1 align="center">Metaclip</h1>
   <p align="center">
     A self-hosted (for now) space to organize your digital things
     <br />
-    <a href="https://github.com/metaclip-app/metaclip">Download</a>
+    <a href="https://github.com/metaclip-app/metaclip/releases">Download</a>
   </p>
 </div>
-
-#
 
 <img src="public/img/landing.png"/>
 
@@ -24,10 +21,11 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 1. Download xampp at [sourceforge](https://sourceforge.net/projects/xampp/)
 2. Install it using the intaller
 3. Open it and click on start on the Apache and MySQL row
-4. Extract the .zip on [releases](https://github.com/metaclip-app/metaclip)
+4. Extract the .zip on [releases](https://github.com/metaclip-app/metaclip/releases)
 4. Move the extracted folder to xampp htdocs
 5. Acess [localhost/metaclip/public/pages/app.php](http://localhost/metaclip/public/pages/app.php)
-6. That's it :3
+6. Favorite it for easy access
+7. That's it :3
 
 ## Roadmap
 -- 0.0.1 --
@@ -56,14 +54,6 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 
 -- 1.5.2 --
 
-- [ ] Translations (may not be added)
-    - [x] English
-    - [ ] Portuguese (my main language)
-    - [ ] Spanish
-    - [ ] Japanese
-
--- 2.0.0 --
-
 - [ ] Folders
 - [ ] "Page-folders"
 - [ ] Themes
@@ -83,4 +73,4 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## License
-Distributed under the GPL-3.0 License. See `LICENSE.MD` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
