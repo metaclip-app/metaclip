@@ -41,8 +41,9 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 
 -- 1.0.0 --
 
+- [ ] New CSS
+- [ ] File uploading (image)
 - [ ] Better views
-- [ ] Image upload and view
 - [ ] New landing page
 
 -- 1.4.0 --
