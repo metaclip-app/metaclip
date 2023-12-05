@@ -35,7 +35,6 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 -- 0.0.6 --
 
 - [ ] Delete account
-- [ ] List view
 - [ ] Grid view
 - [ ] About page
 
@@ -43,7 +42,7 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 
 - [ ] New CSS
 - [ ] File uploading (image)
-- [ ] Better views
+- [ ] New viewports
 - [ ] New landing page
 
 -- 1.4.0 --
