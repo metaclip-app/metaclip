@@ -34,8 +34,8 @@ If you want to self-hosted the project it's actually a very simple thing. You on
 
 -- 0.0.6 --
 
-- [ ] Delete account
-- [ ] Grid view
+- [x] Delete account
+- [x] Grid view
 - [ ] About page
 
 -- 1.0.0 --
