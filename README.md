@@ -1,3 +1,12 @@
+<pre>
+Metaclip is a on-hold company at the moment and the project is paused.
+Due to some financial limitations we decided to hold it for now and rebuild later.
+The project is gonna stay on-hold for unkown time.
+hope y'all can understand.
+
+Thanks for all - nikolle
+</pre>
+
 <div align="center">
   <img src="public/img/logo.png" alt="Logo" width="200" height="200">
   <h1 align="center">Metaclip</h1>
